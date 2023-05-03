@@ -24,6 +24,7 @@ body {
     font-size: 100px;
     padding-top: 80px;
     text-shadow: 3px 5px 0px rgba(221, 97, 74, 0.5);
+    margin-top: 0;
     margin-bottom: 0px;
     color: #242331;
 }
@@ -38,7 +39,7 @@ body {
     height: 326px;
     margin-top: 50px;
     margin-bottom: 80px;
-    margin-left: 250px;
+    margin-left: 50px;
     border-radius: 100%;
     background-image: url("Group 1.png");
     background-size: cover;
@@ -65,7 +66,7 @@ body {
     margin-bottom: 0;
 }
 #name-age {
-    margin-right: 250px;
+    margin-right: 50px;
     margin-bottom: 10px;
 }
 #age-num {
